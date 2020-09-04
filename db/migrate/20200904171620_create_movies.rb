@@ -8,5 +8,6 @@ class CreateMovies < ActiveRecord::Migration[5.2]
     t.string :in_theaters
   end
 end
+end
 
 
